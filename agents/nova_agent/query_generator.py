@@ -20,12 +20,15 @@ llm = Together(
 prompt_template = PromptTemplate(
     input_variables=["key_info"],
     template="""
-You are a startup research assistant. Based on the following context, generate 5 specific, diverse, and high-intent search queries that a startup founder might use to research their idea.
+You are a startup research assistant. Based on the following context, generate 5 specific, diverse, and high-intent Google search queries that a startup founder would use to conduct market research for validating their idea.
+
+Each query must focus on uncovering factual information about market size, customer demand, existing competition, industry trends, and potential risks.
 
 Context:
 {key_info}
 
 Respond ONLY with a JSON list of strings. No markdown, no extra commentary.
+
 """
 )
 

@@ -1,29 +1,30 @@
 {
-  "industry": "Education and Training (NACE code: 85.5)",
-  "market_trend": "The global online education market is expected to grow at a CAGR of 20% from 2023 to 2024, driven by increasing demand for online courses and degree programs.",
+  "industry": "Education",
+  "market_trend": "Growing demand for online education platforms, with a CAGR of 14% from 2022 to 2032",
   "TAM_SAM_SOM": {
-    "TAM": "$18.4B",
-    "SAM": "$6.2B",
-    "SOM": "$1.2B"
+    "TAM": "$399.3 billion (2022)",
+    "SAM": "$245.5 billion (2022)",
+    "SOM": "$18 billion (2022)"
   },
   "customer_segments": [
-    "College students aged 18-24",
-    "Young professionals aged 25-35",
-    "Working professionals aged 36-55"
+    "College students looking for internships and practical skills training",
+    "Employers seeking skilled and experienced interns",
+    "Parents and guardians looking for education and career opportunities for their children"
   ],
-  "pricing_opportunity": "Subscription-based pricing model, with tiered pricing for different courses and internships. Pricing ranges from $20 to $500 per course.",
+  "pricing_opportunity": "Subscription-based pricing, with discounts for bulk purchases and referrals",
   "market_opportunities": [
-    "Remote learning and online degree programs",
-    "AI-powered adaptive learning systems",
-    "Personalized learning and skill development"
+    "Growing demand for online education platforms",
+    "Increasing adoption of AI in education",
+    "Growing need for practical skills and real-world experience"
   ],
   "market_risks": [
     "Competition from established online education platforms",
-    "Quality control and assurance for courses and internships",
-    "Regulatory compliance and accreditation"
+    "Quality of courses and internships",
+    "Scalability and infrastructure challenges"
   ],
   "recent_investments": [
-    "Coursera raises $130M in Series F funding from NEA (Jan 2024)",
-    "Udemy raises $100M in Series E funding from TCV (Mar 2024)"
+    "Coursera raised $130 million in Series F funding from investors including NEA and GGV Capital (2022)",
+    "Udemy raised $50 million in Series F funding from investors including Insight Venture Partners and General Catalyst (2022)",
+    "Pluralsight raised $150 million in Series F funding from investors including Insight Venture Partners and General Catalyst (2022)"
   ]
 }
