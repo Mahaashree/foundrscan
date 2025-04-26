@@ -1,0 +1,30 @@
+{
+  "industry": "Education",
+  "market_trend": "Growing demand for online education platforms",
+  "TAM_SAM_SOM": {
+    "TAM": "$18B",
+    "SAM": "$6B",
+    "SOM": "$1.5B"
+  },
+  "customer_segments": [
+    "College students",
+    "Working professionals",
+    "Corporate trainers"
+  ],
+  "pricing_opportunity": "Subscription-based model with tiered pricing",
+  "market_opportunities": [
+    "Artificial intelligence-based learning platforms",
+    "Virtual reality-based training solutions",
+    "Personalized learning experiences"
+  ],
+  "market_risks": [
+    "Competition from established players",
+    "Regulatory challenges",
+    "Technical issues"
+  ],
+  "recent_investments": [
+    "Coursera raises $130M from investors",
+    "Udemy raises $50M from investors",
+    "Pluralsight raises $300M from investors"
+  ]
+}
