@@ -1,30 +1,29 @@
 {
-  "industry": "Education",
-  "market_trend": "Growing demand for online education platforms",
+  "industry": "Education and Training (NACE code: 85.5)",
+  "market_trend": "The global online education market is expected to grow at a CAGR of 20% from 2023 to 2024, driven by increasing demand for online courses and degree programs.",
   "TAM_SAM_SOM": {
-    "TAM": "$18B",
-    "SAM": "$6B",
-    "SOM": "$1.5B"
+    "TAM": "$18.4B",
+    "SAM": "$6.2B",
+    "SOM": "$1.2B"
   },
   "customer_segments": [
-    "College students",
-    "Working professionals",
-    "Corporate trainers"
+    "College students aged 18-24",
+    "Young professionals aged 25-35",
+    "Working professionals aged 36-55"
   ],
-  "pricing_opportunity": "Subscription-based model with tiered pricing",
+  "pricing_opportunity": "Subscription-based pricing model, with tiered pricing for different courses and internships. Pricing ranges from $20 to $500 per course.",
   "market_opportunities": [
-    "Artificial intelligence-based learning platforms",
-    "Virtual reality-based training solutions",
-    "Personalized learning experiences"
+    "Remote learning and online degree programs",
+    "AI-powered adaptive learning systems",
+    "Personalized learning and skill development"
   ],
   "market_risks": [
-    "Competition from established players",
-    "Regulatory challenges",
-    "Technical issues"
+    "Competition from established online education platforms",
+    "Quality control and assurance for courses and internships",
+    "Regulatory compliance and accreditation"
   ],
   "recent_investments": [
-    "Coursera raises $130M from investors",
-    "Udemy raises $50M from investors",
-    "Pluralsight raises $300M from investors"
+    "Coursera raises $130M in Series F funding from NEA (Jan 2024)",
+    "Udemy raises $100M in Series E funding from TCV (Mar 2024)"
   ]
 }

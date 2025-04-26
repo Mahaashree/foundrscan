@@ -31,7 +31,7 @@ def build_market_insight_chain():
 
     llm = Together(
         model="meta-llama/Llama-Vision-Free",
-        temperature=0.0,
+        temperature=0.2,
         max_tokens=4000,
         api_key = os.getenv("TOGETHER_API_KEY")  
     )
